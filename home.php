@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1><p align="center">WELCOME TO THE YUDISTHIO COMMUNITY </p></h1>
+        <h1><p align="center">WELCOME TO THE 8 COMMUNITY </p></h1>
     </div>
 </body>
 </html>
