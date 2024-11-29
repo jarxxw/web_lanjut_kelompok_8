@@ -1,11 +1,3 @@
-<div class="card card-default color-palatte-box">
-    <div class="card-header">
-        <h3 class="card-title">
-            <i class="fas fa-user"></i>
-            Daftar Mahasiswa
-        </h3>
-    </div>
-    <div class="card-body">
 <?php
 include 'koneksi.php';
 $aksi = isset($_GET['aksi']) ? $_GET['aksi'] : 'list';
@@ -335,7 +327,3 @@ switch ($aksi) {
         break;
 }
 ?>
-    </div>
-    <!-- /.card-body -->
-</div>
- <!-- /.card -->
