@@ -41,7 +41,7 @@ include("koneksi.php");
 $page = isset($_GET['p'])? $_GET['p'] : 'home';
 if ($page == 'home') include 'home.php';
 if($page == 'mhs') include 'mahasiswa.php';
-if($page == 'prodi') include 'prodi.php';
+if($page == 'dosen') include 'dosen.php';
 ?>
 
 <!DOCTYPE html>
