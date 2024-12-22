@@ -45,9 +45,9 @@ if($page == 'dosen') include 'dosen.php';
 if($page == 'kategori') include 'kategori.php';
 if($page == 'prodi') include 'prodi.php';
 if($page == 'user') include 'user.php';
-if($page == 'dosen') include 'level.php';
-if($page == 'dosen') include 'berita.php';
-if($page == 'dosen') include 'ruangan.php';
+if($page == 'level') include 'level.php';
+if($page == 'berita') include 'berita.php';
+if($page == 'room') include 'ruangan.php';
 
 
 
