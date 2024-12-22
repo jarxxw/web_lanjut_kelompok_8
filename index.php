@@ -42,6 +42,15 @@ $page = isset($_GET['p'])? $_GET['p'] : 'home';
 if ($page == 'home') include 'home.php';
 if($page == 'mhs') include 'mahasiswa.php';
 if($page == 'dosen') include 'dosen.php';
+if($page == 'kategori') include 'kategori.php';
+if($page == 'prodi') include 'prodi.php';
+if($page == 'user') include 'user.php';
+if($page == 'dosen') include 'level.php';
+if($page == 'dosen') include 'berita.php';
+if($page == 'dosen') include 'ruangan.php';
+
+
+
 ?>
 
 <!DOCTYPE html>
